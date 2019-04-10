@@ -1,0 +1,17 @@
+Package: microfiniteR
+Type: Package
+Title: A Package for Finite Element Analysis of Microscale Structures 
+Version: 0.1.0
+Author: Khameel B. Mustapha
+Maintainer: The package maintainer <KhameelB.Mustapha@nottingham.edu.my>
+Description: This package is developed as a companion package to the book
+    "R for Finite Element Analyses of Size-dependent Microscale Structures".
+    It is a collection of functions to assist in the computations of bending,
+    free vibration and bucking analysis of Timoshenko microscale beams as well as
+    Kirchhoff microscale plates. 
+    The finite element models implemented in this package are based on the 
+    modified couple stress theory.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
