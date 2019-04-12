@@ -3,7 +3,7 @@ This package is developed as a companion material to the book
     ["R for Finite Element Analyses of Size-dependent Microscale Structures"](https://www.springer.com/gp/book/9789811370137).
     It is a collection of functions to assist in the computations of bending,
     free vibration and bucking analyses of microscale beams and plates.
-    The finite element models are based on the Timoshenko beam and Kirchhoff plate theories within the framework of the modified couple stress theory.
+    The finite element models are based on the Timoshenko beam and Kirchhoff plate formulations within the framework of the modified couple stress theory.
 
 # Installation
 The package installation requires base R, the RStudio IDE and the devtools package.
