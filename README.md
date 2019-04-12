@@ -1,5 +1,5 @@
 # microfiniteR
-This package is developed as a companion package to the book
+This package is developed as a companion material to the book
     ["R for Finite Element Analyses of Size-dependent Microscale Structures"](https://www.springer.com/gp/book/9789811370137).
     It is a collection of functions to assist in the computations of bending,
     free vibration and bucking analyses of microscale beams and plates.
