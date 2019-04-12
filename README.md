@@ -6,7 +6,7 @@ This package is developed as a companion material to the book
     The finite element models are based on the Timoshenko beam and Kirchhoff plate formulations within the framework of the modified couple stress theory.
 
 # Installation
-The package installation requires base R, the RStudio IDE and the devtools package.
+The package installation requires base R, [RStudio](https://www.rstudio.com/products/rstudio/) and the devtools package.
 
 #install.packages("devtools")
 
