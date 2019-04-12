@@ -14,6 +14,6 @@ devtools::install_github("khameelbm/microfiniteR")
 
 
 # Documentation
-Documentation of the package was done via roxygen <https://github.com/klutometis/roxygen>. 
+Documentation of the package was done via the [roxygen package](https://github.com/klutometis/roxygen). 
 Once the package is installed, the description of the functions can be accessed via the usual function querry in R.
 
